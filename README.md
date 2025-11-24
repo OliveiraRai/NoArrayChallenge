@@ -1,11 +1,11 @@
-💻 No Arrays Here – Java Challenge**
+💻 <b>No Arrays Here – Java Challenge<b>
 
 A simple Java project where the goal was to **process several user-entered numbers without using arrays, lists, or any collection structure**.
 Everything had to be handled manually with basic variables and comparisons.
 
 <hr>
 
-📌 Challenge Description**
+📌 <b>Challenge Description</b>
 
 Implement a program that:
 
@@ -34,7 +34,7 @@ Basically: **old-school Java, without fancy containers.**
 
 <hr>
 
-🛠️ What the Program Does**
+🛠️ <b>What the Program Does</b>
 
 The program:
 
@@ -47,7 +47,7 @@ The program:
 * Calculates the average without counting the termination value
 * Displays all results cleanly in the console
 
-🎯 Purpose of the Exercise**
+🎯 <b>Purpose of the Exercise</b>
 
 <hr>
 
@@ -63,7 +63,7 @@ In short: **learning to manage data manually instead of stuffing everything in a
 
 <hr>
 
-🔥 Final Output Example**
+🔥 <b>Final Output Example</b>
 
 ```
 Total sum: X

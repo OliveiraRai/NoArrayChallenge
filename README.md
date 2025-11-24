@@ -47,9 +47,9 @@ The program:
 * Calculates the average without counting the termination value
 * Displays all results cleanly in the console
 
-🎯 <b>Purpose of the Exercise</b>
-
 <hr>
+
+🎯 <b>Purpose of the Exercise</b>
 
 Practice and reinforce:
 
